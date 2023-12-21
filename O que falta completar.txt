@@ -1,0 +1,4 @@
+Falta completar:
+
+Campo de pesquisa;
+incluir porcentagem nas barras.
